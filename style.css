@@ -138,11 +138,10 @@ main {
 }
 
 .employees__item {
-    width: 30%;
-    min-width: 350px;
+    flex-basis: 33%;
 
-    margin-bottom: 32px;
     margin-top: 32px;
+    margin-bottom: 32px;
     padding-top: 24px;
     padding-bottom: 24px;
 
